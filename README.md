@@ -4,6 +4,10 @@
 
 The `VendingMachine` contract simulates a basic vending machine on the Ethereum blockchain. It allows users to deposit Ether, purchase items, and withdraw funds. The contract owner can set the price of each item.
 
+## Vercel
+
+- dapp link - https://vendingmachine-mu.vercel.app/
+
 ## Features
 
 - **Deposit Funds**: Users can deposit Ether into their account.
